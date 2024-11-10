@@ -11,6 +11,7 @@ public class Artist {
         this.name=name;
     }
     public int getKey(){return key;}
+    private int sd;
     public void setKey(int key){
         this.key=key;
     }
